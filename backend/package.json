@@ -1,0 +1,31 @@
+{
+  "name": "financiera-alternativa-backend",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.x",
+    "bcryptjs": "^2.x",
+    "bull": "^4.x",
+    "compression": "^1.x",
+    "cors": "^2.x",
+    "express": "^4.x",
+    "helmet": "^7.x",
+    "joi": "^17.x",
+    "jsonwebtoken": "^9.x",
+    "morgan": "^1.x",
+    "pdfkit": "^0.13.x",
+    "pg": "^8.x",
+    "redis": "^4.7.0",
+    "socket.io": "^4.x",
+    "winston": "^3.x"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.x"
+  }
+}
