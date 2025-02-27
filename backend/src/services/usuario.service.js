@@ -15,7 +15,7 @@ export const findById = async (id) => {
 export const create = async (data) => {
    const result = await pool.query(
       'INSERT INTO usuarios (email, password_hash, nombre, apellido, rol_id) VALUES ($1, $2, $3, $4, $5) RETURNING *',
-      [data.email, data.password_hash, data.nombre, data.apellido, 2]
+      [data.email, data.password, data.nombre, data.apellido, 2]
    );
    return result.rows[0];
 };

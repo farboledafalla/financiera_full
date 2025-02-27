@@ -230,3 +230,19 @@
 {"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T02:59:38.012Z"}
 {"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T02:59:47.651Z"}
 {"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T02:59:47.702Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:04:51.737Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:04:51.792Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:04:55.171Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:04:55.222Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:04:57.897Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:04:57.947Z"}
+{"code":"23502","column":"password_hash","detail":"La fila que falla contiene (1, franklim.arboleda@gmail.com, null, Franklim, Arboleda, null, null, null, 2, t, 2025-02-26 22:11:53.889397).","file":"execMain.c","length":343,"level":"error","line":"1988","name":"error","routine":"ExecConstraints","schema":"public","severity":"ERROR","table":"usuarios","timestamp":"2025-02-27T03:11:53.899Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:15:40.256Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:15:40.308Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:16:44.622Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:16:44.673Z"}
+{"code":"23502","column":"password_hash","detail":"La fila que falla contiene (2, franklim.arboleda@gmail.com, null, Franklim, Arboleda, null, null, null, 2, t, 2025-02-26 22:19:04.458694).","file":"execMain.c","length":343,"level":"error","line":"1988","name":"error","routine":"ExecConstraints","schema":"public","severity":"ERROR","table":"usuarios","timestamp":"2025-02-27T03:19:04.462Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:26:12.616Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:26:12.666Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:27:52.799Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:27:52.853Z"}
