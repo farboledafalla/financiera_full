@@ -29,6 +29,8 @@ export const findUserById = async (id) => {
    return result.rows[0];
 };
 
+// Servicio para crear un nuevo usuario
+// Es invocado desde auth.controller.js
 export const create = async (data) => {
    // Lógica para crear un nuevo usuario
    const { email, password, nombre, apellido } = data;

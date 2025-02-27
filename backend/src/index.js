@@ -8,7 +8,7 @@ import helmet from 'helmet';
 import compression from 'compression';
 import { Server } from 'socket.io';
 import { createServer } from 'http';
-import routes from './routes/index.js';
+import routes from './routes/index.js'; // Rutas
 import logger from './config/logger.js';
 import app from './app.js'; // Importa la aplicación configurada
 //import './config/redis.js';
@@ -26,7 +26,7 @@ app.use(cors());
 app.use(compression());
 app.use(express.json());
 
-// Rutas
+// Rutas, se agrega el prefijo /api
 app.use('/api', routes);
 
 // WebSocket

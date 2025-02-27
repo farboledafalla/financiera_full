@@ -20,7 +20,6 @@ export const connectDB = async () => {
       logger.info('Base de datos conectada');
    } catch (error) {
       logger.error('Error conectando a la base de datos:::', error);
-      console.error('Error conectando a la bd en catch: ', error);
       process.exit(1);
    }
 };

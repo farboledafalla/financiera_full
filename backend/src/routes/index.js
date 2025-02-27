@@ -7,10 +7,11 @@ import datosAlternativosRoutes from './datosAlternativos.routes.js';
 
 const router = Router();
 
+// Listado de rutas por tipo de recurso
 router.use('/auth', authRoutes);
 router.use('/usuarios', usuariosRoutes);
 router.use('/creditos', creditosRoutes);
 router.use('/entidades', entidadesRoutes);
 router.use('/datos-alternativos', datosAlternativosRoutes);
 
-export default router; 
+export default router;

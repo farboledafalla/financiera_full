@@ -9,6 +9,7 @@ export default function errorHandler(err, req, res, next) {
       });
    }
 
+   // Manejo de errores genéricos, details es el mensaje de error
    res.status(500).json({
       error: 'Error interno del servidor',
       details: err.message,
