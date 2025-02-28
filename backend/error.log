@@ -177,3 +177,10 @@
 {"code":"23502","column":"password_hash","detail":"La fila que falla contiene (1, franklim.arboleda@gmail.com, null, Franklim, Arboleda, null, null, null, 2, t, 2025-02-26 22:11:53.889397).","file":"execMain.c","length":343,"level":"error","line":"1988","name":"error","routine":"ExecConstraints","schema":"public","severity":"ERROR","table":"usuarios","timestamp":"2025-02-27T03:11:53.899Z"}
 {"code":"23502","column":"password_hash","detail":"La fila que falla contiene (2, franklim.arboleda@gmail.com, null, Franklim, Arboleda, null, null, null, 2, t, 2025-02-26 22:19:04.458694).","file":"execMain.c","length":343,"level":"error","line":"1988","name":"error","routine":"ExecConstraints","schema":"public","severity":"ERROR","table":"usuarios","timestamp":"2025-02-27T03:19:04.462Z"}
 {"code":"23505","constraint":"usuarios_email_key","detail":"Ya existe la llave (email)=(admin@example.com).","file":"nbtinsert.c","length":220,"level":"error","line":"673","name":"error","routine":"_bt_check_unique","schema":"public","severity":"ERROR","table":"usuarios","timestamp":"2025-02-27T04:48:27.817Z"}
+{"level":"error","status":401,"timestamp":"2025-02-27T05:56:37.570Z"}
+{"level":"error","timestamp":"2025-02-27T23:43:00.315Z"}
+{"level":"error","timestamp":"2025-02-27T23:44:18.482Z"}
+{"level":"error","status":401,"timestamp":"2025-02-27T23:54:37.587Z"}
+{"level":"error","status":401,"timestamp":"2025-02-27T23:56:52.008Z"}
+{"level":"error","status":401,"timestamp":"2025-02-28T02:22:30.704Z"}
+{"level":"error","status":401,"timestamp":"2025-02-28T02:22:30.712Z"}

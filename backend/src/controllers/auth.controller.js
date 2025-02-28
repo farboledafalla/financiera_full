@@ -8,14 +8,18 @@ export const login = async (req, res, next) => {
       const { email, password } = req.body;
       const user = await authService.findUserByEmail(email);
 
+      // Compara la contraseña ingresada con la contraseña almacenada en la base de datos
+      // Si no coincide, lanza un error y eso es lo que está pasando
       if (!user || !(await bcrypt.compare(password, user.password_hash))) {
          throw unauthorized('Credenciales inválidas');
       }
+      const compare = await bcrypt.compare(password, user.password_hash);
 
+      // Genera un token para el usuario entregando el objeto user
       const token = generateToken(user);
       res.json({
          token,
-         user: { id: user.id, email: user.email, role: user.role },
+         user: { id: user.id, email: user.email, role: user.rol_id },
       });
    } catch (error) {
       next(error);

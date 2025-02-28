@@ -4,46 +4,47 @@ import axios from 'axios';
 const AuthContext = createContext(null);
 
 export const AuthProvider = ({ children }) => {
-  const [user, setUser] = useState(null);
-  const [loading, setLoading] = useState(true);
+   const [user, setUser] = useState(null);
+   const [loading, setLoading] = useState(true);
 
-  useEffect(() => {
-    checkAuth();
-  }, []);
+   useEffect(() => {
+      checkAuth();
+   }, []);
 
-  const checkAuth = async () => {
-    try {
-      const token = localStorage.getItem('token');
-      if (token) {
-        const response = await axios.get('/api/auth/me', {
-          headers: { Authorization: `Bearer ${token}` }
-        });
-        setUser(response.data);
+   const checkAuth = async () => {
+      try {
+         const token = localStorage.getItem('token');
+         if (token) {
+            const response = await axios.get('/api/auth/me', {
+               headers: { Authorization: `Bearer ${token}` },
+            });
+            setUser(response.data);
+         }
+      } catch (error) {
+         localStorage.removeItem('token');
+      } finally {
+         setLoading(false);
       }
-    } catch (error) {
+   };
+
+   const login = async (credentials) => {
+      const response = await axios.post('/api/auth/login', credentials);
+      const { token, user } = response.data;
+      localStorage.setItem('token', token);
+      setUser(user);
+      return response;
+   };
+
+   const logout = () => {
       localStorage.removeItem('token');
-    } finally {
-      setLoading(false);
-    }
-  };
+      setUser(null);
+   };
 
-  const login = async (credentials) => {
-    const response = await axios.post('/api/auth/login', credentials);
-    const { token, user } = response.data;
-    localStorage.setItem('token', token);
-    setUser(user);
-  };
-
-  const logout = () => {
-    localStorage.removeItem('token');
-    setUser(null);
-  };
-
-  return (
-    <AuthContext.Provider value={{ user, loading, login, logout }}>
-      {!loading && children}
-    </AuthContext.Provider>
-  );
+   return (
+      <AuthContext.Provider value={{ user, loading, login, logout }}>
+         {!loading && children}
+      </AuthContext.Provider>
+   );
 };
 
-export const useAuth = () => useContext(AuthContext); 
+export const useAuth = () => useContext(AuthContext);

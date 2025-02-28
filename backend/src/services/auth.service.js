@@ -1,6 +1,8 @@
 import { pool } from '../config/database.js';
 import bcrypt from 'bcryptjs';
 
+// Servicio para encontrar un usuario por email
+// Es invocado desde auth.controller.js
 export const findUserByEmail = async (email) => {
    const result = await pool.query('SELECT * FROM usuarios WHERE email = $1', [
       email,
