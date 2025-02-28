@@ -16,9 +16,11 @@ export default function Login() {
             email: formData.get('email'),
             password: formData.get('password'),
          });
+
          navigate('/dashboard');
       } catch (err) {
-         setError('Credenciales inválidas');
+         //Si la función await login() arroja un error, se muestra un mensaje de error
+         setError('Error');
       }
    };
 

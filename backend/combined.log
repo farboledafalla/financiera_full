@@ -246,3 +246,342 @@
 {"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:26:12.666Z"}
 {"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:27:52.799Z"}
 {"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:27:52.853Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:31:32.485Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:31:32.538Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:31:34.840Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:31:34.891Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:31:40.482Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:31:40.533Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:31:42.412Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:31:42.465Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:07.016Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:07.068Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:26.035Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:26.087Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:27.425Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:27.481Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:30.710Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:30.759Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:34.314Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:34.364Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:38.772Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:38.822Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:40.778Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:40.832Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:44.933Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:45.093Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:32:56.727Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:32:56.776Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:01.348Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:01.400Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:03.695Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:03.746Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:06.345Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:06.395Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:23.506Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:23.559Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:25.433Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:25.482Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:26.521Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:26.574Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:38.785Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:38.843Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:40.315Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:40.367Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:43.605Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:43.656Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:47.287Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:47.340Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:54.214Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:54.267Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T03:33:56.086Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T03:33:56.150Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:10:45.429Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:10:46.097Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:10:46.148Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:11:03.467Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:11:03.518Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:15.441Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:15.493Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:17.753Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:17.805Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:22.340Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:22.393Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:23.694Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:23.745Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:33.065Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:33.115Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:34.642Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:34.693Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:36.528Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:36.578Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:37.930Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:37.982Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:14:42.636Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:14:42.702Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:17:26.437Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:17:26.488Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:17:28.882Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:17:28.932Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:18:23.893Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:18:23.954Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:18:25.573Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:18:25.624Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:18:28.739Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:18:28.789Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:18:42.059Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:18:42.111Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:18:57.785Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:18:57.835Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:18:59.382Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:18:59.431Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:19:13.952Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:19:14.002Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:19:16.830Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:19:16.884Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:19:19.573Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:19:19.632Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:19:20.298Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:19:20.351Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:19:48.186Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:19:48.236Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:05.865Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:05.915Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:27.156Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:27.206Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:36.209Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:36.260Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:40.275Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:40.326Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:47.648Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:47.701Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:50.134Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:50.184Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:53.891Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:53.952Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:57.916Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:57.966Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:20:59.226Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:20:59.278Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:22:24.928Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:22:24.981Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:22:30.726Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:22:30.893Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:22:40.081Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:22:40.135Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:22:43.053Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:22:43.215Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:22:46.898Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:22:46.953Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:22:48.594Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:22:48.647Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:22:49.859Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:22:49.909Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:22:51.735Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:22:51.788Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:42:41.112Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:42:41.167Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:42:43.952Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:42:44.006Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:42:48.247Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:42:48.300Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:42:49.476Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:42:49.527Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:42:55.247Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:42:55.297Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:43:14.841Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:43:14.893Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:43:19.426Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:43:19.475Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:43:24.395Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:43:24.446Z"}
+{"code":"23505","constraint":"usuarios_email_key","detail":"Ya existe la llave (email)=(admin@example.com).","file":"nbtinsert.c","length":220,"level":"error","line":"673","name":"error","routine":"_bt_check_unique","schema":"public","severity":"ERROR","table":"usuarios","timestamp":"2025-02-27T04:48:27.817Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:59:20.086Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:59:20.136Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:59:24.648Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:59:24.700Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T04:59:27.716Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T04:59:27.770Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:00:43.313Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:00:43.361Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:00:44.366Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:00:44.417Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:01:30.055Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:01:30.105Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:01:34.100Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:01:34.168Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:02:41.340Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:02:41.392Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:02:44.182Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:02:44.234Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:05:35.565Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:05:36.203Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:05:36.254Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:05:50.147Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:05:50.197Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:06:00.831Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:06:00.883Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:06:04.673Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:06:04.722Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:06:49.356Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:06:49.405Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:06:54.368Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:06:54.417Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:06:59.035Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:06:59.086Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:07:04.107Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:07:04.161Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:07:06.068Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:07:06.229Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:07:56.851Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:07:56.907Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:08:10.734Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:08:10.786Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:08:16.615Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:08:16.674Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:08:18.253Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:08:18.417Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:13:15.821Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:13:15.871Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:13:19.549Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:13:19.713Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:13:20.736Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:13:20.785Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:13:37.637Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:13:37.689Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:13:39.269Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:13:39.322Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:21:15.596Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:21:15.647Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:21:24.790Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:21:24.850Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:21:27.734Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:21:27.785Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:21:31.696Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:21:31.749Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:21:32.980Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:21:33.033Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:22:41.701Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:22:41.752Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:22:49.097Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:22:49.149Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:22:53.695Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:22:53.764Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:22:56.265Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:22:56.315Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:23:19.015Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:23:19.070Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:23:21.901Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:23:21.952Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:24:27.434Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:24:27.486Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:24:31.096Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:24:31.788Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:24:31.848Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:25:23.804Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:25:23.867Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:25:24.644Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:25:24.696Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:28:40.160Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:28:40.213Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:28:41.464Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:28:41.515Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:28:47.054Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:28:47.104Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:29:12.176Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:29:12.228Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:29:15.165Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:29:15.216Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:55:38.912Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:55:38.971Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:55:42.126Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:55:42.179Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:55:57.213Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:55:57.263Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:56:18.658Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:56:18.708Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:56:21.084Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:56:21.134Z"}
+{"level":"error","status":401,"timestamp":"2025-02-27T05:56:37.570Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:58:28.543Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:58:28.597Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:58:29.983Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:58:30.034Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:58:47.131Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:58:47.183Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:58:48.734Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:58:48.794Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:58:49.444Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:58:49.495Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:58:59.643Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:58:59.697Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:59:03.507Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:59:03.558Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:59:10.938Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:59:10.991Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:59:15.985Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:59:16.034Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:59:22.061Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:59:22.113Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:59:25.641Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:59:25.692Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T05:59:27.893Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T05:59:27.945Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:23:56.775Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:23:56.839Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:36:04.831Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:36:04.881Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:36:06.666Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:36:06.718Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:36:07.592Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:36:07.640Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:41:36.968Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:41:37.018Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:42:09.827Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:42:09.878Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:42:15.394Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:42:15.444Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:42:48.867Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:42:48.917Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:42:50.679Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:42:50.730Z"}
+{"level":"error","timestamp":"2025-02-27T23:43:00.315Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:43:21.037Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:43:21.088Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:43:36.332Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:43:36.490Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:44:06.778Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:44:06.830Z"}
+{"level":"error","timestamp":"2025-02-27T23:44:18.482Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:44:41.072Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:44:41.123Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:44:41.893Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:44:41.944Z"}
+{"level":"error","status":401,"timestamp":"2025-02-27T23:54:37.587Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:55:46.562Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:55:46.630Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:55:48.676Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:55:48.726Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-27T23:56:20.875Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-27T23:56:20.928Z"}
+{"level":"error","status":401,"timestamp":"2025-02-27T23:56:52.008Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T00:06:18.959Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T00:06:19.013Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T00:06:22.977Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T00:06:23.033Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T00:06:23.770Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T00:06:23.821Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T00:22:59.411Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T00:22:59.465Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T01:58:13.637Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T01:58:13.689Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T01:58:37.676Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T01:58:37.725Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T01:58:39.098Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T01:58:39.160Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T01:58:45.766Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T01:58:45.815Z"}
+{"level":"info","message":"Servidor corriendo en puerto 3005","timestamp":"2025-02-28T01:58:56.288Z"}
+{"level":"info","message":"Base de datos conectada","timestamp":"2025-02-28T01:58:56.340Z"}
+{"level":"error","status":401,"timestamp":"2025-02-28T02:22:30.704Z"}
+{"level":"error","status":401,"timestamp":"2025-02-28T02:22:30.712Z"}
